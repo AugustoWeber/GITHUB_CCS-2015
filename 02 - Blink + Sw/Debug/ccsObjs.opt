@@ -1,0 +1,1 @@
+"./02-Blink+Sw.obj" "./startup_ccs.obj" "./utils/uartstdio.obj" "../hello_ccs.cmd" -l"libc.a" -l"Z:/ti/TivaWare/examples/boards/ek-tm4c123gxl/hello/ccs/../../../../../driverlib/ccs/Debug/driverlib.lib" 
